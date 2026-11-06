@@ -323,5 +323,3 @@ if mostrar_retrasadas:
             mostrar_tarea(tarea)
     else:
         st.success("No tienes tareas retrasadas.")
-
-st.caption("Gestor de tareas · Proyecto personal con Python y Streamlit")
