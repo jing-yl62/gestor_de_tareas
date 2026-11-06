@@ -1,0 +1,19 @@
+# Entorno virtual de Python
+.venv/
+
+# Archivos temporales
+__pycache__/
+*.pyc
+
+# Datos personales
+tareas.json
+usuario.json
+*.json.tmp
+
+# Configuración privada
+.streamlit/secrets.toml
+.vscode/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
