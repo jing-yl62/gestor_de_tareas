@@ -3,6 +3,20 @@
 
 Aplicación web desarrollada con Python y Streamlit para organizar y gestionar tareas personales.
 
+## 📸 Capturas de pantalla
+
+### Interfaz principal
+
+![Interfaz principal](capturas/pantalla_principal.png)
+
+### Crear una nueva tarea
+
+![Formulario de nueva tarea](capturas/nueva_tarea.png)
+
+### Lista de tareas
+
+![Lista de tareas](capturas/lista_tareas.png)
+
 ## Funcionalidades
 
 - Crear, editar y eliminar tareas.
@@ -37,5 +51,7 @@ Aplicación web desarrollada con Python y Streamlit para organizar y gestionar t
 
 ## Autora
 Jing Yang Lin
+
 Estudiante de Ingeniería Informática
+
 Universidad Politécnica de Madrid (UPM)
